@@ -1,4 +1,4 @@
-from array_example import ListaArray
+from b_array_example import ListaArray
 
 
 class Matrix(ListaArray):
