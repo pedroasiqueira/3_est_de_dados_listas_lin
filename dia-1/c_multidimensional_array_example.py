@@ -21,6 +21,7 @@ class Matrix(ListaArray):
 print('----- Arrays multidimensionais')
 array = Matrix()
 array.set(0, 0, "Marcos")
+print(array)
 array.set(0, 1, 6)
 array.set(0, 2, 9)
 
