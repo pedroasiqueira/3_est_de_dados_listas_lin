@@ -22,9 +22,7 @@ class LinkedList:
         last_value = Node(value)
         current_value = self.head_value
 
-        # Mais abaixo criaremos o método is_empty()
-        # que substituirá a condição deste if
-        if current_value is None:
+        if self.is_empty():
             return self.insert_first(value)
 
         while current_value.next:
