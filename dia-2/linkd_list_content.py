@@ -101,7 +101,7 @@ class LinkedList:
 
 
 
-# Para testar, apenas rode o arquivo com: `python3 linked_list_content.py` :)
+# Para testar, apenas rode o arquivo com: `python3 linked_list_content.py` :)asdas
 if __name__ == "__main__":
     linked_list = LinkedList()
 
